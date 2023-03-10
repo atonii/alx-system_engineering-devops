@@ -28,4 +28,4 @@ directories permissions excluding files
 Creates a dir with custom permissions
 
 ### chown - R vincent:staff .
-change ownership of file and group together
+change ownership of file to vincent and group to staff
