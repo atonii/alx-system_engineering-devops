@@ -24,5 +24,5 @@ script to grant other users all permissions only
 sets olleh to hello
 #### find . -type d -exec chmod 755 {} + 
 directories permissions excluding files
-mkdir -m 751 my_dir
+### mkdir -m 751 my_dir
 Creates a dir with custom permissions
