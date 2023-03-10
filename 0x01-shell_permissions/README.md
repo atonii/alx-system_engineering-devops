@@ -27,5 +27,7 @@ directories permissions excluding files
 ### mkdir -m 751 my_dir
 Creates a dir with custom permissions
 
-### chown - R vincent:staff .
+### chown -R vincent:staff .
 change ownership of file to vincent and group to staff
+### chown -h vincent:staff _hello
+script that changes the owner and the group owner of _hello to vincent and staff respectively.
