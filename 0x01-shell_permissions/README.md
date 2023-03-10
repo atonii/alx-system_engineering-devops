@@ -26,3 +26,6 @@ sets olleh to hello
 directories permissions excluding files
 ### mkdir -m 751 my_dir
 Creates a dir with custom permissions
+
+### chown vincent:staff hello
+change ownership of file and group together
