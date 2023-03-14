@@ -18,3 +18,5 @@
 head -N | tail -1: 4.6 sec, sed Nq;d: 18.8 sec
 
 [7-file](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/7-file) - uses escape character to name a file with special characters
+
+8-cwd_state - redirecting output to file
