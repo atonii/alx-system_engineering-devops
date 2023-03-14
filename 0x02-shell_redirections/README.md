@@ -12,4 +12,4 @@
 
 [4-lastlines](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/4-lastlines) - Display last 10 lines of a file
 
-5-firstlines - Display first 10 lines of a file
+[5-firstlines](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/5-firstlines) - Display first 10 lines of a file
