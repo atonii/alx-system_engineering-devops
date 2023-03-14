@@ -17,4 +17,4 @@
 [6-third_line](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/6-third_line) - Print Nth line of file. The usages are tail -n+N | head -1: 3.7 sec,
 head -N | tail -1: 4.6 sec, sed Nq;d: 18.8 sec
 
-7-file - uses escape character to name a file with special characters
+[7-file](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/7-file) - uses escape character to name a file with special characters
