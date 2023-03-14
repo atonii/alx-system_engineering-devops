@@ -7,3 +7,5 @@
 [2-hellofile](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/2-hellofile) - Display content of file
 
 
+
+3-twofiles - Display content of two files
