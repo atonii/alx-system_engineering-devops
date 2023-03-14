@@ -13,3 +13,6 @@
 [4-lastlines](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/4-lastlines) - Display last 10 lines of a file
 
 [5-firstlines](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/5-firstlines) - Display first 10 lines of a file
+
+6-third_line - Print Nth line of file. The usages are tail -n+N | head -1: 3.7 sec,
+head -N | tail -1: 4.6 sec, sed Nq;d: 18.8 sec
