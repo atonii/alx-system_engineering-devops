@@ -9,3 +9,5 @@
 
 
 [3-twofiles](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/3-twofiles) - Display content of two files
+
+4-lastlines - Display last 10 lines of a file
