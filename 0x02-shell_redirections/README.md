@@ -24,3 +24,5 @@ head -N | tail -1: 4.6 sec, sed Nq;d: 18.8 sec
 [9-duplicate_last_line](https://github.com/atonii/alx-system_engineering-devops/blob/master/0x02-shell_redirections/9-duplicate_last_line) - duplicates last line of file content
 
 10-no_more_js - remove all .js files recursively
+
+11-directories - count directories
