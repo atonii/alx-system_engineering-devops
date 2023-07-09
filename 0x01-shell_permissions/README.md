@@ -15,3 +15,5 @@ Order of tasks
 6-multiple_permissions - give multiple permissions
 
 7-everybody - Adds exec permission to all
+
+8-James_Bond - no permission to user and group but all to others
