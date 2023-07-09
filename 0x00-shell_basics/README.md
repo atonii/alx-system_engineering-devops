@@ -37,3 +37,8 @@ Delete file ending in ~
 Creating subdirectories with path
 
 List with commas separation
+
+Creating magic file 
+file -C -m school.mgc for compilation 
+file --mime-type -m school.mgc * for mime output 
+file -m school.mgc * for ASCII output
