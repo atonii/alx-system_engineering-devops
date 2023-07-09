@@ -23,3 +23,5 @@ Delete directory
 Goto Prev Dir
 
 List files in multiple dir
+
+Display file type
