@@ -25,3 +25,5 @@ Goto Prev Dir
 List files in multiple dir
 
 Display file type
+
+Symbolic link
