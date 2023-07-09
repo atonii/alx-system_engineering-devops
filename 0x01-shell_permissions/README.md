@@ -23,3 +23,5 @@ Order of tasks
 10-mirror_permissions - mirror permissions
 
 11-directories_permissions - adds x permission recursively
+
+12-directory_permissions - create and give default permission to dir
