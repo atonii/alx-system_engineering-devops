@@ -7,3 +7,5 @@ Order of tasks
 2-groups - print groups user is in
 
 3-new_owner - change file ownership to betty
+
+4-empty - create an empty file called hello
