@@ -15,3 +15,5 @@ Long hidden listing with UID and GID
 Creating a directory using path
 
 Move file to another dir
+
+Delete file
