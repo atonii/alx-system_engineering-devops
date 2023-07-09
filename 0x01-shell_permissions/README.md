@@ -19,3 +19,5 @@ Order of tasks
 8-James_Bond - no permission to user and group but all to others
 
 9-John_Doe - gives 753 permission
+
+10-mirror_permissions - mirror permissions
