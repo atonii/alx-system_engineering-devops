@@ -17,3 +17,5 @@ Creating a directory using path
 Move file to another dir
 
 Delete file
+
+Delete directory
