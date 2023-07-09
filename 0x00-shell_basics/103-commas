@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --file-tpe -am
+ls --file-type -am
