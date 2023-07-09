@@ -29,3 +29,5 @@ Display file type
 Symbolic link
 
 Copy html files
+
+Move files beginning with uppercase
