@@ -35,3 +35,5 @@ Move files beginning with uppercase
 Delete file ending in ~
 
 Creating subdirectories with path
+
+List with commas separation
