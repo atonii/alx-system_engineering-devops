@@ -31,3 +31,5 @@ Symbolic link
 Copy html files
 
 Move files beginning with uppercase
+
+Delete file ending in ~
