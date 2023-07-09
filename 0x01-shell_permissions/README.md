@@ -29,3 +29,5 @@ Order of tasks
 13-change_group - change group ownership
 
 100-change_owner_and_group - change owner and group
+
+101-symbolic_link_permissions - change file ownernership for symb files
