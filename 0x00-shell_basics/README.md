@@ -7,3 +7,5 @@ List content of directory
 Home directory command
 
 List in long format
+
+Long format and hidden files listing
