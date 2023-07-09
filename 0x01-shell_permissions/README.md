@@ -21,3 +21,5 @@ Order of tasks
 9-John_Doe - gives 753 permission
 
 10-mirror_permissions - mirror permissions
+
+11-directories_permissions - adds x permission recursively
