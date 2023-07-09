@@ -13,3 +13,5 @@ Order of tasks
 5-execute - gives exec permission
 
 6-multiple_permissions - give multiple permissions
+
+7-everybody - Adds exec permission to all
