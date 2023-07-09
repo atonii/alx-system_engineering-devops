@@ -11,3 +11,5 @@ Order of tasks
 4-empty - create an empty file called hello
 
 5-execute - gives exec permission
+
+6-multiple_permissions - give multiple permissions
