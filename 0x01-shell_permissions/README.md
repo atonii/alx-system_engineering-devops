@@ -25,3 +25,5 @@ Order of tasks
 11-directories_permissions - adds x permission recursively
 
 12-directory_permissions - create and give default permission to dir
+
+13-change_group - change group ownership
