@@ -19,3 +19,5 @@ Move file to another dir
 Delete file
 
 Delete directory
+
+Goto Prev Dir
